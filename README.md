@@ -8,3 +8,5 @@ Konsolowa aplikacja C#/.NET utworzona na laboratorium.
 dotnet run
 ```
 
+## Kontakt
+Zespół: Warsztat Programisty
